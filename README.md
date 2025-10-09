@@ -1,4 +1,4 @@
-# 📌 Prime Trade Assignment – Backend + Frontend
+# 📌 Role-based-Website-Implementation – Backend + Frontend
 
 Here is the demo link for the deployed project:
 
