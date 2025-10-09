@@ -146,7 +146,7 @@ This will run both backend and frontend together.
 
 ---
 
-✅ I have implemented all the requirements from the assignment:
+✅ I have implemented all:
 - Secure backend APIs with **JWT + bcrypt**  
 - **Role-based access control** (User / Admin / Superadmin)  
 - CRUD APIs for **Tasks** entity  
