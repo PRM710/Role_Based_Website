@@ -7,10 +7,10 @@ WORKDIR /app
 # Copy package.json and lock first (for caching)
 COPY package*.json ./
 
-# Install dependencies
+# Install dependencies.
 RUN npm install
 
-# Copy rest of the backend code
+# Copy rest of the backend code.
 COPY . .
 
 # Expose backend port
